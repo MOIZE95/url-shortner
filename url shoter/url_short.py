@@ -1,3 +1,7 @@
+# pip install pyshorteners
+#pip install pyperclip
+# install the above libraries
+
 import tkinter as tk
 import pyshorteners
 import pyperclip
